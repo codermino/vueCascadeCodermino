@@ -6,7 +6,7 @@
   "keyword": "vue cascade components",
   "main": "dist/vue-cascade.js",
   "repository": {
-    "url": ""
+    "url": "https://github.com/codermino/vueCascadeCodermino.git"
   },
   "private": false,
   "license": "MIT",
