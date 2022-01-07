@@ -1,6 +1,6 @@
 {
   "name": "@codermino/vue-cascade",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "codermino",
   "description": "使用vue结合element-ui左侧选择影响右侧类型。",
   "keyword": "vue cascade components",
